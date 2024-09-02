@@ -25,3 +25,4 @@ Upcoming Features:
 - Multiple scenes
 - Instancing
 - Volumes
+- More standardized file format (PNG, JPEG, etc...)
