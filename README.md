@@ -1,3 +1,8 @@
+# OBSOLETE
+This project is no longer a raycaster, and has become obsolete.
+The new project:
+https://github.com/zoner197/Optica
+
 Introduction
 -------------
 This is a simple raytracer made in C++, outputting a reasonably good image.
